@@ -3,7 +3,7 @@ Standard Model LaTeX/TikZ figures in Swedish
 
 # Credit
 Figures in English from taken from TikZ.net here (seem to be free to use - feel free to notify me if not!):
-- `SM_particles_SE.tex`: SM diagram similar to the wikipedia page, https://tikz.net/sm_particles/  (Status: fully translated, but some issues with interaction circles on 8th diagram)
+- `SM_particles_SE.tex`: SM diagram similar to the wikipedia page, https://tikz.net/sm_particles/  (Status: fully translated, but some issues with interaction circles on diagrams 8-9)
 - `SM_particles_beamer_SE.tex`: SM diagram animated in beamer LaTeX slides, from the same page as the above (Status: fully translated)
 - `SM_particles_round_SE.tex`: Round SM diagram, https://tikz.net/sm_particles_round/
 - `SM_decay_piechart_SE.tex`: various pie charts for branching ratios of SM particles, https://tikz.net/sm_decay_piechart/ (Status: only a few are translated so far)
